@@ -1,3 +1,15 @@
+## Basic Installation
+
+Run the following command on your local environment:
+
+```bash
+git clone --depth=1 https://github.com/bunleaps/nextjs-boilerplate.git [your project name]
+cd [your project name]
+npm install
+```
+
+Then, you can run locally in development mode with live reload with the command below.
+
 ## Development server
 
 ```bash
