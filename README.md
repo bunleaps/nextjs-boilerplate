@@ -1,3 +1,5 @@
+![1](./documentation/1.png)
+
 ## Basic Installation
 
 Run the following command on your local environment:
@@ -9,6 +11,8 @@ npm install
 ```
 
 Then, you can run locally in development mode with live reload with the command below.
+
+![3](./documentation/3.png)
 
 ## Development server
 
@@ -28,6 +32,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can modify absolute path by editing `jsconfig.json`. The path will updates when you saved your changes.
 
+![4](./documentation/4.png)
+
 ## Static Images
 
 For static images can be found inside the `public/static/images` folder and can be used with `<Image />` from `next/image`.
@@ -39,3 +45,5 @@ For static images can be found inside the `public/static/images` folder and can 
 ## React Icons
 
 You can use a lot of icons prvided by React Icons. Check out the [React Icons](https://react-icons.github.io/react-icons) website, import and use it.
+
+![2](./documentation/2.png)
