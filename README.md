@@ -26,4 +26,4 @@ For static images can be found inside the `public/static/images` folder and can 
 
 ## React Icons
 
-You can use a lot of icons prvided by React Icons. Check out the [React Icons]('https://react-icons.github.io/react-icons') website, import and use it.
+You can use a lot of icons prvided by React Icons. Check out the [React Icons](https://react-icons.github.io/react-icons) website, import and use it.
